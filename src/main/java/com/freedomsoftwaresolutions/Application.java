@@ -1,4 +1,4 @@
-package com.freedomsoftwaresolutions.Main;
+package com.freedomsoftwaresolutions;
 
 import com.freedomsoftwaresolutions.OutputDataService.Entities.InputData;
 import com.freedomsoftwaresolutions.OutputDataService.Plugin.NullOutputDataStrategy;
